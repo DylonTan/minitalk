@@ -16,3 +16,6 @@ How to clean:
 
 How to do a full clean:
 ### `make fclean`
+
+Project from 42KL cursus
+More info: https://42kl.edu.my/
